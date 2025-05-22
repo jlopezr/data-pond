@@ -3,7 +3,10 @@
 **Data Pond** is a simple CRUD application for user-based file storage, built with FastAPI and Python.  
 It features JWT authentication, user management (admin and regular users), and file storage in per-user folders.
 
-![Logo](data-pond.png)
+<figure>
+<img src="data-pond.png" alt="Data Pond" width="600">
+<figcaption>- George, it is a data lake but smaller!</figcaption>
+</figure>
 
 ## Features
 
@@ -19,7 +22,7 @@ It features JWT authentication, user management (admin and regular users), and f
 
 1. **Clone the repository:**
    ```sh
-   git clone <repo-url>
+   git clone https://github.com/jlopezr/data-pond
    cd data-pond
    ```
 
