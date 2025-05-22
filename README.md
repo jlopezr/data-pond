@@ -5,7 +5,7 @@ It features JWT authentication, user management (admin and regular users), and f
 
 <figure>
 <img src="data-pond.png" alt="Data Pond" width="600">
-<figcaption>- George, it is a data lake but smaller!</figcaption>
+<figcaption><b><i>- George, it is a data lake but smaller!</i></b></figcaption>
 </figure>
 
 ## Features
